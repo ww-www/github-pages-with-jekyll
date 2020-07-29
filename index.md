@@ -1,3 +1,10 @@
-# Welcome to my blog
+## oh hey I'm learning how to use github
+# and markdown I guess 
 
-I'm glad you are here. I plan to talk about ...
+All git commands have been done through terminal to relearn the Bash shell
+This file was edited with Vim.
+There should be an image below of puppies.
+
+![3 of our lovely shih tzus at a few months old](IMAG0150.jpg)
+
+
