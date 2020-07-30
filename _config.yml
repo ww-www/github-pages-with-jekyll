@@ -3,7 +3,6 @@ author: not putting my name
 email: not-my-email@either.punk
 theme: jekyll-theme-time-machine
 description: > # this means to ignore newlines until "baseurl:"
-not even a real place
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
